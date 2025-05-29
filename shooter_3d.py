@@ -128,12 +128,7 @@ def input(key):
         reload()
 
 app.run()
-from ursina import *
-from ursina.prefabs.health_bar import HealthBar
-import random
-import math
-from ursina.prefabs.health_bar import HealthBar
-import random
+
 
 app = Ursina()
 
