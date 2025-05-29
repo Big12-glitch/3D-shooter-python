@@ -1,8 +1,14 @@
-# 3D-shooter-python
-A basic 3D FPS game made with the Ursina engine in Python. No textures. Just vibes, cubes, and chaos.
 # 🔫 Call of Duty: Ursina Edition - v1
 
 Welcome to the most chaotic cube shooter of 2025 😤 Built in Python using the Ursina game engine, this is a no-texture, low-poly 3D FPS where you shoot red enemies, survive waves, and reload like a pro.
+
+## 📚 Table of Contents
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Future Plans](#future-plans)
+- [Requirements](#requirements)
+- [Author](#author)
+- [License](#license)
 
 ## 🎮 Features
 
@@ -21,9 +27,15 @@ Welcome to the most chaotic cube shooter of 2025 😤 Built in Python using the 
     pip install ursina
     ```
 
+2. Clone the repo:
+    ```bash
+    git clone https://github.com/Big12-glitch/3D-shooter-python.git
+    cd 3D-shooter-python
+    ```
+
 3. Run the game:
     ```bash
-    python main.py
+    python src/main.py
     ```
 
 ## 🧠 Future Plans (v2+)
@@ -50,3 +62,9 @@ Aiming to be the GOAT software dev 🐐💻
 ## 📄 License
 
 MIT License. See [`LICENSE`](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Wanna help make this even cooler? Fork the repo, do your thing, and open a pull request 😎  
+Bugs? Ideas? Drop an issue like it's hot.
+
